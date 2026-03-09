@@ -2,7 +2,7 @@
 
 # Análise Estatística da Rede Amazon 0302
 
-Este projeto realiza uma análise estrutural e estatística do dataset **Amazon 0302 (SNAP)**, uma rede direcionada de copropriedade de produtos. O objetivo é processar os dados da rede e determinar se a distribuição de graus segue uma Lei de Potência (*Power Law*) ou uma distribuição **Lognormal**.
+Este projeto realiza uma análise estrutural e estatística do dataset **Amazon 0302 (SNAP)**, uma rede direcionada de copropriedade de produtos. O objetivo é processar os dados da rede e determinar se a distribuição de graus segue uma Lei de Potência (*Power Law*) ou uma distribuição **Lognormal**. Replicável com outros grafos direcionados.
 
 ## Resumo dos Dados
 - **Vértices:** 262.111
