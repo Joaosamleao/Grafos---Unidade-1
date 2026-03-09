@@ -31,6 +31,6 @@ O código em Java utiliza a classe `Digraph` para carregar a rede e exportar a d
 Com os arquivos CSV gerados, o script Python realiza o ajuste dos modelos matemáticos.
 
 1. Instale as dependências: `pip install pandas matplotlib powerlaw numpy`.
-2. Execute os scripts de análise para gerar os gráficos e métricas presentes em `Grafos-Unidade 01/Arquivos Python`.
+2. Execute os scripts de análise para gerar os gráficos e métricas presentes em `Grafos - Unidade 01/Arquivos Python`.
 
 *Replicável com outros grafos direcionados.
